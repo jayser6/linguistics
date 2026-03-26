@@ -1,0 +1,5 @@
+\frametitle{Code Block}
+\begin{verbatim}
+def hello(name: str) -> str:
+    return f"Hello, {name}!"
+\end{verbatim}

@@ -1,0 +1,133 @@
+\documentclass[12pt]{article}
+
+%% Basic document formatting
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage{mathtools}
+\usepackage{xspace}
+\usepackage{thmtools}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{ytableau}
+\usepackage{blkarray}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{titling}
+\usepackage[left=0.4in,right=0.4in,top=1in,bottom=1in]{geometry}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage{tabularx}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{framed}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{environ}
+\usepackage{tcolorbox}
+\tcbuselibrary{theorems,skins,breakable}
+
+\usepackage{enumitem}
+\setlist[enumerate]{leftmargin=*}
+\setlist[enumerate,1]{labelindent=\parindent}
+\setlist[enumerate,2]{labelindent=0pt}
+
+%\input{../../template/commands.tex}
+
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand{\thesubsection}{(\alph{subsection})}
+
+\newtheorem{claim}{Claim}
+\newtheorem*{lemma}{Lemma}
+
+%% Headers & title setup
+\newcommand{\course}{Lign255}
+\newcommand{\myname}{Jay Ser}
+\setlength{\headheight}{14.5pt}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\lhead{\course}
+\rhead{\myname}
+\cfoot{\thepage}
+\setlength{\droptitle}{-4em} 
+\title{\course\ - Wk 7, Staal 1984a}
+\author{Jay Ser}
+\date{2026.02.18}
+
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+
+%------------------------------------------------------------------------------%
+
+\section*{Summary}
+Why do people engage in ritual, recite mantras, and use langauge?
+A diachronic analysis suggests the following: 
+\begin{itemize} 
+  \item Ritual is symbolic (social, myth, value) 
+  \item Mantra increases the potency of ritual 
+  \item Language is used for communication 
+\end{itemize}
+Staal studies ritual, mantra, and langauge synchronically to claim that none are true. 
+
+\section*{Ritual}
+\subsection*{Function vs origin of ritual}
+What is the function of the following rituals? 
+\begin{itemize}
+  \item \'{s}rauta ritual: ``... construction of the main altar of the Angicayana from 1005 kiln-fired bricks, 200 each in four layers, and 205 in the fifth" 
+    and ``consecrated by particular mantras and in a specific order." 
+  \item Tying a sacrifical animal to a \={y}upa such that 
+    ``the cord is fastened to the right foot, goes round the left side of the neck and is then wound round the right horn and finally fastened to the stake."
+\end{itemize} 
+``What is puzzling about rites is not that their origins can sometimes be explained, but that they continue to be performed even though the original explanation is no longer valid or operative."
+
+\subsection*{Rites are performed independently of belief} 
+The popular claim: ``the reason for performing a specific ritual is the desire (k\={a}ma) for a particular effect or fruit (prayojana, phala)"
+(I have no clue what these vocabulary mean). 
+
+Here are further issues with this claim:
+\begin{itemize}
+  \item Two subcategories of Vedic rituals: nitya (``obligatory") and k\={a}mya (``optional")
+    \begin{itemize}
+      \item This feels like an unnatural dichotomy: 
+        what does being obliged/not obliged to ``desire heaven" even mean? 
+      \item The ``expression of the desire itself is ritualized": 
+        the declaration of intent, rather than belief, guarantees (ritual-theoretically) that the ritual's desired effect will ensue. 
+    \end{itemize}
+  \item ``Although rites remain the same [across different times, cultures, etc], their interpretation tends to change" 
+    \begin{itemize}
+      \item The yajam\={a}na (ritualist) need not know the semantic meaning of ritualisitc expressions during their performance 
+      \item Two divergent schools of the M\={i}m\={a}ms\={a} disagree on the ``conceptions of the presumed result" of the svarya result yet enact identical practices. 
+      \item More generally, though Ved\={a}ntins and Buddhists disagree on the ``value of performing ritual and on the fruits of such performances," both religions perform (similar? not clarified by Staal) rituals.  
+      \item ```Hinduizaiton' of Vedic ritual," e.g., Subrahmany\={a} rites. 
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Disarming Heersterman's theory}
+Heersterman: ``\textbf{Against this tale of catastrophe stands the vision of the ritualists...} 
+the construction we know as the classical system or \textbf{`science of ritual.'}
+In this construction, the principles of ritual structure are \textbf{`consciously applied.'}
+The vision of the ritualists is concisely expressed in the mythic story of the contest between Praj\={a}pati, the Lord of life, and Mrytu, Death. 
+The `weapons' of Praj\={a}pati were the standard elements of the classical ritual -- chant, recitation, and (orderly) act. 
+Those of Death, on the other hand, were typically non-\'{s}rauta elements -- song, dance, and wanton act... 
+The breakthrough came with \textbf{Praj\={a}pati's `seeing' or discovering} of sampad and samkhy\={a}na, numerical equivalence and `counting together' (of liturgical and cosmic events). 
+\textbf{Again and again, we observe how in a variety of rites, the agonistic elements of real battle are `identified away' and replaced by abstarct liturgical elements.}"
+\bigbreak
+Staal's rebuttal:
+\begin{itemize}
+  \item What ``vision" of the ritualists is ``consciously applied" in this ``ritual of science?" 
+      \begin{itemize}
+        \item ``The object of this science is ritual structure" 
+      \end{itemize}
+    \item Are the ritualists ``conciously" constructing rituals to reflect death and strife? 
+      \begin{itemize}
+        \item Several species of animals engage in tournaments, where ``the stronger wins without hurting the loser," for territorial, breeding, etc.  
+          \begin{itemize}
+            \item Male marine iguana tournament: https://www.youtube.com/watch?v=nWa5NXhXh94 
+          \end{itemize}
+        \item Animal rituals also occur in the context of social bonding. 
+      \end{itemize}
+\end{itemize}
+
+
+\end{document}

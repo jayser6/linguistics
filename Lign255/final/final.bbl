@@ -1,0 +1,1058 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{barany2014chalk}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b7d4cbdc2b624fd95df9e52f0d111aa0}{%
+           family={Barany},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=113d0ca769fffb9092cc606131878921}{%
+           family={MacKenzie},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=20f458b2ab0f3ea0eb9b3d9ace8e7fd9}{%
+           family={Coopman},
+           familyi={C\bibinitperiod},
+           given={Catelijne},
+           giveni={C\bibinitperiod}}}%
+        {{hash=70aa4f0b1c06a74398ce5c0db21c1348}{%
+           family={Vertesi},
+           familyi={V\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+        {{hash=844cce284e4b770140949966daed0dc1}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Michaeland},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b2029a4feac0fca1890ce5f90e0fee19}{%
+           family={Woolgar},
+           familyi={W\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{fullhash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{fullhashraw}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{bibnamehash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{authorbibnamehash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{authornamehash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{authorfullhash}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{authorfullhashraw}{80ca7f6c32ec3f0a3c67bdb9204dc8d7}
+      \strng{editorbibnamehash}{f0019bd7978b93f6dd01e146e3377d04}
+      \strng{editornamehash}{f0019bd7978b93f6dd01e146e3377d04}
+      \strng{editorfullhash}{69bbf1dd6757ed174bfdca6329be3a3c}
+      \strng{editorfullhashraw}{69bbf1dd6757ed174bfdca6329be3a3c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Representation in {{Scientific Practice Revisited}}}
+      \field{isbn}{978-0-262-52538-1}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shorttitle}{Chalk}
+      \field{title}{Chalk: {{Materials}} and {{Concepts}} in {{Mathematics Research}}}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{107\bibrangedash 130}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.7551/mitpress/9780262525381.003.0006
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/NUQIQ5BQ/Barany and MacKenzie - 2014 - Chalk Materials and Concepts in Mathematics Research.pdf
+      \endverb
+    \endentry
+    \entry{berwick2017why}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0242dba3692ae8a4b640b51d5a3f0911}{%
+           family={Berwick},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28167c0b3800bc5cfb686676277005b0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{fullhash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{fullhashraw}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{bibnamehash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{authorbibnamehash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{authornamehash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{authorfullhash}{94c8f15ded8a439ca5362f13b0afe311}
+      \strng{authorfullhashraw}{94c8f15ded8a439ca5362f13b0afe311}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{From its modern origin over sixty years ago, generative grammar has attempted to characterize the human ``faculty of language'' as an evolvable traitea particular phenotype. This phenotype has a species-specific genetic basis, what biologists typically call a genotype. There are many puzzling questions about the nature of the human language genotype and phenotype, some of which are addressed in the recent book, Why Only Us (Berwick \& Chomsky 2016). Among the most puzzling are the following: why does language occur only in humans, appearing relatively rapidly and recently in evolutionary terms, along with no apparent genomic change since its emergence? Why Only Us suggested that the answer to this question is that the required evolutionary innovation was simple, with most of its underpinnings antecedently in place. The key evolutionary novelty yielding the human language phenotypeeperhaps the only innovation, putting to one side an important mystery regarding the origin of human concepts that were called ``word-like atomic elements''eis an operation called Merge. Merge builds a ``discrete infinity of structured expressions that are interpretable in a definite way by the conceptual-intentional system of thought and action, and by a sensory-motor system for externalization''ein short, thought linked with sound/sign (Chomsky, 2016). This may be called the ``Basic Property'' (BP) of human language, and it is a short answer to the question of ``What evolved'' for human language. The BP gives rise to the language faculty: the ability for any person to acquire any human language. We consider the language faculty the proper phenotype for analysis, and its underlying genomics, the corresponding genotype. Much confusion has arisen by conflating the properties of individually realized languages with the design of the language faculty itself, because this leads to a very different conception of the language phenotype , one inextricably linked to articulatory or vocal output modalitiesethe externalization of language. More broadly, WOU framed the basic evolutionary puzzles about the evolution of the language faculty in the form of answers to five additional questions: Who evolved the BP? Where and when did the BP evolve? How did it evolve? And, finally, Why? Since its publication, new evidence has accumulated in support of WOU's basic thesis, though as always many important questions remain open. Here we review this very recent evidence focusing on basic evolutionary issues, including a recurrent, but we think misguided, effort to account for the properties of the language faculty by means of cultural-biological interaction. We argue that this latter effort fails in all respectseit does not account for the properties of the language faculty, failing to rule out languages that are known to be ``impossible'' on other, empirical grounds, including brain imaging; and does not even make successful empirical predictions about diachronic language change.}
+      \field{issn}{09116044}
+      \field{journaltitle}{Journal of Neurolinguistics}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{Why Only Us}
+      \field{title}{Why Only Us: {{Recent}} Questions and Answers}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{166\bibrangedash 177}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jneuroling.2016.12.002
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/Y8L5FWXE/Berwick and Chomsky - 2017 - Why only us Recent questions and answers.pdf
+      \endverb
+    \endentry
+    \entry{davis2023learnability}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=754887a6f2b255ad98726afa95990c64}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=411f2bbc9a4add6206457602060eff73}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kenny},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{fullhash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{fullhashraw}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{bibnamehash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{authorbibnamehash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{authornamehash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{authorfullhash}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \strng{authorfullhashraw}{a32150d21510c3e72f0b90d5a4fe63f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract In a pair of artificial language experiments, we investigated the learnability and emergence of different dependency structures: branching, center-embedding, and crossed. In natural languages, branching is the most common dependency structure; center-embedding occurs but is often disfavored, and crossed dependencies are very rare. Experiment 1 addressed learnability, testing comprehension, and production on small artificial languages exemplifying each dependency type in noun phrases. As expected, branching dependency grammars were the easiest to learn, but crossed grammars were not different from center-embedding. Experiment 2 employed iterated learning to examine the emergence and stabilization of consistent grammar using the same type of stimuli as Experiment 1. The initial participant in each chain of transmission was trained on phrases generated by a random grammar, with the language produced by that participant passed to the next participant through an iterated learning process. Branching dependency grammar appeared in most chains within a few generations and remained stable once it appeared, although one chain stabilized on output consistent with a crossed grammar; no chains converged on center-embedding grammars. These findings, along with some previous results, call into question the assumption that crossed dependencies are more cognitively complex than center-embedding, while confirming the role of learnability in the typology of dependency structures.}
+      \field{issn}{2058-4571, 2058-458X}
+      \field{journaltitle}{Journal of Language Evolution}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{The Learnability and Emergence of Dependency Structures in an Artificial Language}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{8}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{64\bibrangedash 89}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1093/jole/lzad006
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/27VJUMES/Davis and Smith - 2023 - The learnability and emergence of dependency structures in an artificial language.pdf
+      \endverb
+    \endentry
+    \entry{ferrigno2025humans}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e809ebc0f0043ed55d655be0410ab983}{%
+           family={Ferrigno},
+           familyi={F\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bb1ab003016620af0c0e4cc35010bb7}{%
+           family={Cheyette},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=965ed24c2f23396b53a4108ce4e03359}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{fullhash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{fullhashraw}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{bibnamehash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{authorbibnamehash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{authornamehash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{authorfullhash}{4e664ce67beec6e56245a7cb9c9ac167}
+      \strng{authorfullhashraw}{4e664ce67beec6e56245a7cb9c9ac167}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Complex sequences are ubiquitous in human mental life, structuring representations within many different cognitive domains---natural language, music, mathematics, and logic, to name a few. However, the representational and computational machinery used to learn abstract grammars and process complex sequences is unknown. Here, we used an artificial grammar learning task to study how adults abstract center-embedded and cross-serial grammars that generalize beyond the level of embedding of the training sequences. We tested untrained generalizations to longer sequence lengths and used error patterns, item-to-item response times, and a Bayesian mixture model to test two possible memory architectures that might underlie the sequence representations of each grammar: stacks and queues. We find that adults learned both grammars, that the cross-serial grammar was easier to learn and produce than the matched center-embedded grammar, and that item-to-item touch times during sequence generation differed systematically between the two types of sequences. Contrary to widely held assumptions, we find no evidence that a stack architecture is used to generate center-embedded sequences in an indexed AnBn artificial grammar. Instead, the data and modeling converged on the conclusion that both center-embedded and cross-serial sequences are generated using a queue memory architecture. In this study, participants stored items in a first-in-first-out memory architecture and then accessed them via an iterative search over the stored list to generate the matched base pairs of center-embedded or cross-serial sequences.}
+      \field{issn}{0364-0213, 1551-6709}
+      \field{journaltitle}{Cognitive Science}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Do {{Humans Use Push}}-{{Down Stacks When Learning}} or {{Producing Center}}-{{Embedded Sequences}}?}
+      \field{urlday}{23}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{49}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{e70112}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/cogs.70112
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/T8RMYD8Y/Ferrigno et al. - 2025 - Do Humans Use Push‐Down Stacks When Learning or Producing Center‐Embedded Sequences.pdf
+      \endverb
+    \endentry
+    \entry{hauser2002faculty}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a35018af502474e54e0a8981890bb7ec}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Marc\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28167c0b3800bc5cfb686676277005b0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe08ae2b8f0f88662b02f66207f0a6ff}{%
+           family={Fitch},
+           familyi={F\bibinitperiod},
+           given={W\bibnamedelima Tecumseh},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{fullhash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{fullhashraw}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{bibnamehash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{authorbibnamehash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{authornamehash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{authorfullhash}{0e16bdf1f10a679ef4dc6b933a630772}
+      \strng{authorfullhashraw}{0e16bdf1f10a679ef4dc6b933a630772}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{The {{Faculty}} of {{Language}}: {{What Is It}}, {{Who Has It}}, and {{How Did It Evolve}}?}
+      \field{year}{2002}
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/BZW3UY93/Hauser et al. - The Faculty of Language What Is It, Who Has It, and How Did It Evolve.pdf
+      \endverb
+    \endentry
+    \entry{hunter2021chomsky}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98afe4147ff613736a955d9c8d625e07}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=c7a08c7d053189792fa9531bb9f8d994}{%
+           family={Allott},
+           familyi={A\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=54b7f8c270aa4a3debe3176789b52202}{%
+           family={Lohndal},
+           familyi={L\bibinitperiod},
+           given={Terje},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2491dcbcff0465be48f0bf84253380f9}{%
+           family={Rey},
+           familyi={R\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{fullhash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{fullhashraw}{98afe4147ff613736a955d9c8d625e07}
+      \strng{bibnamehash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{authorbibnamehash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{authornamehash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{authorfullhash}{98afe4147ff613736a955d9c8d625e07}
+      \strng{authorfullhashraw}{98afe4147ff613736a955d9c8d625e07}
+      \strng{editorbibnamehash}{9cf734e09749e90ba2cdd61be95064b3}
+      \strng{editornamehash}{9cf734e09749e90ba2cdd61be95064b3}
+      \strng{editorfullhash}{9cf734e09749e90ba2cdd61be95064b3}
+      \strng{editorfullhashraw}{9cf734e09749e90ba2cdd61be95064b3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A {{Companion}} to {{Chomsky}}}
+      \field{edition}{1}
+      \field{isbn}{978-1-119-59870-1 978-1-119-59873-2}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{The {{Chomsky Hierarchy}}}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{74\bibrangedash 95}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1002/9781119598732.ch5
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/NICR8TAM/Hunter - 2021 - The Chomsky Hierarchy1.pdf
+      \endverb
+    \endentry
+    \entry{karlsson2007constraints}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ccd201842a3c22accf0fa384f6e9aec}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{fullhash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{fullhashraw}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{bibnamehash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{authorbibnamehash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{authornamehash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{authorfullhash}{6ccd201842a3c22accf0fa384f6e9aec}
+      \strng{authorfullhashraw}{6ccd201842a3c22accf0fa384f6e9aec}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A common view in theoretical syntax and computational linguistics holds that there are no grammatical restrictions on multiple center-embedding of clauses. Syntax would thus be characterized by unbounded recursion. An analysis of 119 genuine multiple clausal center-embeddings from seven `Standard Average European' languages (English, Finnish, French, German, Latin, Swedish, Danish) uncovers usage-based regularities, constraints, that run counter to these and several other widely held views, such as that any type of multiple self-embedding (of the same clause type) would be possible , or that self-embedding would be more complex than multiple center-embedding of different clause types. The maximal degree of center-embedding in written language is three. In spoken language, multiple center-embedding is practically absent. Typical center-embeddings of any degree involve relative clauses specifying the referent of the subject NP of the superordinate clause. Only postmodifying clauses, especially relative clauses and that -clauses acting as noun complements, allow central self-embedding. Double relativization of objects ( The rat the cat the dog chased killed ate the malt ) does not occur. These corpus-based `soft constraints' suggest that full-blown recursion creating multiple clausal center-embedding is not a central design feature of language in use. Multiple center-embedding emerged with the advent of written language, with Aristotle, Cicero, and Livy in the Greek and Latin stylistic tradition of `periodic' sentence composition.}
+      \field{issn}{0022-2267, 1469-7742}
+      \field{journaltitle}{Journal of Linguistics}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{Constraints on Multiple Center-Embedding of Clauses}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{43}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{365\bibrangedash 392}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1017/S0022226707004616
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/ILGFMJGZ/Karlsson - 2007 - Constraints on multiple center-embedding of clauses.pdf
+      \endverb
+    \endentry
+    \entry{lipton1979social}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=44166fb39cf702e9ba98a4092c35db66}{%
+           family={Lipton},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c6304a28a556414a8c02176aed0f6d}{%
+           family={Perlis},
+           familyi={P\bibinitperiod},
+           given={Alan\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{fullhash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{fullhashraw}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{bibnamehash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{authorbibnamehash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{authornamehash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{authorfullhash}{3455ee0a924d4674a8e36a13fc3982a4}
+      \strng{authorfullhashraw}{3455ee0a924d4674a8e36a13fc3982a4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is argued that formal verifications of programs, no matter how obtained, will not play the same key role in the development of computer science and software engineering as proofs do in mathematics. Furthermore the absence of continuity, the inevitability of change, and the complexity of specification of significantly many real programs make the formal verification process difficult to justify and manage. It is felt that ease of formal verification should not dominate program language design.}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Social {{Processes}} and {{Proofs}} of {{Theorems}} and {{Programs}}}
+      \field{year}{1979}
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/H4NKA3K9/Lipton and Perlis - Social Processes and Proofs of Theorems and Programs.pdf
+      \endverb
+    \endentry
+    \entry{minkowski1989janamejayas}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef974c4aa3bfd5df85ce7bae47828d15}{%
+           family={Minkowski},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Z.},
+           giveni={C\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{fullhash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{fullhashraw}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{bibnamehash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{authorbibnamehash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{authornamehash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{authorfullhash}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \strng{authorfullhashraw}{ef974c4aa3bfd5df85ce7bae47828d15}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{00030279}
+      \field{journaltitle}{Journal of the American Oriental Society}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Janamejaya's {{Sattra}} and {{Ritual Structure}}}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{109}
+      \field{year}{1989}
+      \field{urldateera}{ce}
+      \field{pages}{401}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/604141
+      \endverb
+      \verb{eprint}
+      \verb 604141
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/Q3BQGMIR/Minkowski - 1989 - Janamejaya's Sattra and Ritual Structure.pdf
+      \endverb
+    \endentry
+    \entry{moro2014response}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9bcebf3220006f097f6db250598ea9d}{%
+           family={Moro},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{fullhash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{fullhashraw}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{bibnamehash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{authorbibnamehash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{authornamehash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{authorfullhash}{e9bcebf3220006f097f6db250598ea9d}
+      \strng{authorfullhashraw}{e9bcebf3220006f097f6db250598ea9d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{13646613}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shorttitle}{Response to {{Pulvermüller}}}
+      \field{title}{Response to {{Pulvermüller}}: The Syntax of Actions and Other Metaphors}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{18}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{221}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.tics.2014.01.012
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/M8IFBKAH/Moro - 2014 - Response to Pulvermüller the syntax of actions and other metaphors.pdf
+      \endverb
+    \endentry
+    \entry{niles1979ring}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2225e763d3bf52ab588b0b5e190cf291}{%
+           family={Niles},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{fullhash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{fullhashraw}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{bibnamehash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{authorbibnamehash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{authornamehash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{authorfullhash}{2225e763d3bf52ab588b0b5e190cf291}
+      \strng{authorfullhashraw}{2225e763d3bf52ab588b0b5e190cf291}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One type of organization favored by the Beowulf poet is an ABC \dots{} X \dots{} CBA design capable of indefinite expansion. Ring composition of this type serves as a way of building up short verse paragraphs, as in Homer. It also underlies the composition of whole episodes. In addition, the entire narrative of Beowulf is knit together by an elaborate set of thematic parallels and verbal echoes ranged in pairs about a midpoint of mythic intensity, the fight with Grendel's dam on the floor of the monsters' pool. The consistency with which thesis is answered by antithesis in the design of Beowulf seems to be a special characteristic of the poet's style and way of viewing the world. Seldom are events seen as isolated, without antecedents or consequences. Often joy is answered by sorrow in a network of reversals that undercuts any confidence in the permanence of earthly success.}
+      \field{issn}{0030-8129, 1938-1530}
+      \field{journaltitle}{PMLA/Publications of the Modern Language Association of America}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Ring {{Composition}} and the {{Structure}} of {{{\emph{Beowulf}}}}}
+      \field{urlday}{3}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{94}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{924\bibrangedash 935}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.2307/461974
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/7UFC5DKE/Niles - 1979 - Ring Composition and the Structure of Beowulf.pdf
+      \endverb
+    \endentry
+    \entry{ottl2015does}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a1c96e262b650199217fa529b96a6d12}{%
+           family={Öttl},
+           familyi={Ö\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04e6613905aec889d86b7ddc2e914c2b}{%
+           family={Jäger},
+           familyi={J\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe6218bedb7eb264b07766c3082e1bc8}{%
+           family={Kaup},
+           familyi={K\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1f49e5611693844a53bd6a7fef01b3e0}{%
+           family={Berent},
+           familyi={B\bibinitperiod},
+           given={Iris},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{fullhash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{fullhashraw}{c759a0facb6434db85a20f30e162edd1}
+      \strng{bibnamehash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{authorbibnamehash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{authornamehash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{authorfullhash}{c759a0facb6434db85a20f30e162edd1}
+      \strng{authorfullhashraw}{c759a0facb6434db85a20f30e162edd1}
+      \strng{editorbibnamehash}{1f49e5611693844a53bd6a7fef01b3e0}
+      \strng{editornamehash}{1f49e5611693844a53bd6a7fef01b3e0}
+      \strng{editorfullhash}{1f49e5611693844a53bd6a7fef01b3e0}
+      \strng{editorfullhashraw}{1f49e5611693844a53bd6a7fef01b3e0}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigated whether formal complexity, as described by the Chomsky Hierarchy, corresponds to cognitive complexity during language learning. According to the Chomsky Hierarchy, nested dependencies (context-free) are less complex than cross-serial dependencies (mildly context-sensitive). In two artificial grammar learning (AGL) experiments participants were presented with a language containing either nested or cross-serial dependencies. A learning effect for both types of dependencies could be observed, but no difference between dependency types emerged. These behavioral findings do not seem to reflect complexity differences as described in the Chomsky Hierarchy. This study extends previous findings in demonstrating learning effects for nested and cross-serial dependencies with more natural stimulus materials in a classical AGL paradigm after only one hour of exposure. The current findings can be taken as a starting point for further exploring the degree to which the Chomsky Hierarchy reflects cognitive processes.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{Does {{Formal Complexity Reflect Cognitive Complexity}}?}
+      \field{title}{Does {{Formal Complexity Reflect Cognitive Complexity}}? {{ Investigating Aspects}} of the {{Chomsky Hierarchy}} in an {{ Artificial Language Learning Study}}}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{e0123059}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0123059
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/XL8EVMRN/Öttl et al. - 2015 - Does Formal Complexity Reflect Cognitive Complexity Investigating Aspects of the Chomsky Hierarchy.pdf
+      \endverb
+    \endentry
+    \entry{robertson2019exploratory}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e23db97feef7be786c50f4866a18c731}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Sally-Ann},
+           giveni={S\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12217e5bef5507bd101fb344c484dc49}{%
+           family={Graven},
+           familyi={G\bibinitperiod},
+           given={Mellony},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{fullhash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{fullhashraw}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{bibnamehash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{authorbibnamehash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{authornamehash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{authorfullhash}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \strng{authorfullhashraw}{8cfa67ff18a4de2ce28beba306fbb54e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper illuminates challenges confronting teachers and students at the literacy/numeracy interface in contexts where students have not developed sufficient English language proficiency to be learning mathematics through English but, due to socio-politically and economically driven perceptions are being taught in English. We analyse transcript data of classroom talk in a South African grade 4 mathematics lesson on fractions. Together with interview data, the lesson data highlight some of the consequences students' diminished access to their home language appear to have on their access to mathematical meaning-making.}
+      \field{issn}{0013-1954, 1573-0816}
+      \field{journaltitle}{Educational Studies in Mathematics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Exploratory Mathematics Talk in a Second Language}
+      \field{title}{Exploratory Mathematics Talk in a Second Language: A Sociolinguistic Perspective}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{101}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{215\bibrangedash 232}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s10649-018-9840-5
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/23BBFSQ5/Robertson and Graven - 2019 - Exploratory mathematics talk in a second language a sociolinguistic perspective.pdf
+      \endverb
+    \endentry
+    \entry{seidenberg1961geometry}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8eff1a1e00eb6a700ba16c983a2cf862}{%
+           family={Seidenberg},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{bibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorbibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authornamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-9519, 1432-0657}
+      \field{journaltitle}{Archive for History of Exact Sciences}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{The Ritual Origin of Geometry}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{1}
+      \field{year}{1961}
+      \field{urldateera}{ce}
+      \field{pages}{488\bibrangedash 527}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/BF00327767
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/GCT5XTE4/Seidenberg - 1961 - The ritual origin of geometry.pdf
+      \endverb
+    \endentry
+    \entry{seidenberg1962counting}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8eff1a1e00eb6a700ba16c983a2cf862}{%
+           family={Seidenberg},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{bibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorbibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authornamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-9519, 1432-0657}
+      \field{journaltitle}{Archive for History of Exact Sciences}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{The Ritual Origin of Counting}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{1962}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 40}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/BF00325159
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/WT9ELUYN/Seidenberg - 1962 - The ritual origin of counting.pdf
+      \endverb
+    \endentry
+    \entry{staal1984ritual}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=773cb0f4de30033102d3874457987b4b}{%
+           family={Staal},
+           familyi={S\bibinitperiod},
+           given={Frits},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=739f7c27bee7d9946d9c53d990a5067e}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={S.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Ajanta Publications}%
+      }
+      \strng{namehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{fullhash}{773cb0f4de30033102d3874457987b4b}
+      \strng{fullhashraw}{773cb0f4de30033102d3874457987b4b}
+      \strng{bibnamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorbibnamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authornamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorfullhash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorfullhashraw}{773cb0f4de30033102d3874457987b4b}
+      \strng{editorbibnamehash}{739f7c27bee7d9946d9c53d990a5067e}
+      \strng{editornamehash}{739f7c27bee7d9946d9c53d990a5067e}
+      \strng{editorfullhash}{739f7c27bee7d9946d9c53d990a5067e}
+      \strng{editorfullhashraw}{739f7c27bee7d9946d9c53d990a5067e}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Amṛtadhārā: Professor {R.N.} Dandekar Felicitation Volume}
+      \field{title}{Ritual, Mantras and the Origin of Language}
+      \field{year}{1984}
+      \field{pages}{403\bibrangedash 425}
+      \range{pages}{23}
+    \endentry
+    \entry{staal1984search}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=773cb0f4de30033102d3874457987b4b}{%
+           family={Staal},
+           familyi={S\bibinitperiod},
+           given={Frits},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{fullhash}{773cb0f4de30033102d3874457987b4b}
+      \strng{fullhashraw}{773cb0f4de30033102d3874457987b4b}
+      \strng{bibnamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorbibnamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authornamehash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorfullhash}{773cb0f4de30033102d3874457987b4b}
+      \strng{authorfullhashraw}{773cb0f4de30033102d3874457987b4b}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0277-7126}
+      \field{journaltitle}{The American Journal of Semiotics}
+      \field{number}{4}
+      \field{shorttitle}{{{THE SEARCH MEANING}}}
+      \field{title}{{{The Search for Meaning}}: {{Mathematics}}, {{Music}}, {{and Ritual} }}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{1984}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 57}
+      \range{pages}{57}
+      \verb{doi}
+      \verb 10.5840/ajs1984241
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/HQN4PXZF/Staal and Semiotic Society of American, in cooperation with the Philosophy Documentation Center - 1984 - THE SEARCH MEANING MATHEMATICS, MUSIC, AND RITUAL.pdf
+      \endverb
+    \endentry
+    \entry{stout2011stone}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=451a48f58feddf97ca3c189b3ada4faa}{%
+           family={Stout},
+           familyi={S\bibinitperiod},
+           given={Dietrich},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{fullhash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{fullhashraw}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{bibnamehash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{authorbibnamehash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{authornamehash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{authorfullhash}{451a48f58feddf97ca3c189b3ada4faa}
+      \strng{authorfullhashraw}{451a48f58feddf97ca3c189b3ada4faa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although many species display behavioural traditions, human culture is unique in the complexity of its technological, symbolic and social contents. Is this extraordinary complexity a product of cognitive evolution, cultural evolution or some interaction of the two? Answering this question will require a much better understanding of patterns of increasing cultural diversity, complexity and rates of change in human evolution. Palaeolithic stone tools provide a relatively abundant and continuous record of such change, but a systematic method for describing the complexity and diversity of these early technologies has yet to be developed. Here, an initial attempt at such a system is presented. Results suggest that rates of Palaeolithic culture change may have been underestimated and that there is a direct relationship between increasing technological complexity and diversity. Cognitive evolution and the greater latitude for cultural variation afforded by increasingly complex technologies may play complementary roles in explaining this pattern.}
+      \field{issn}{0962-8436, 1471-2970}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{1567}
+      \field{title}{Stone Toolmaking and the Evolution of Human Culture and Cognition}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{366}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{1050\bibrangedash 1059}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1098/rstb.2010.0369
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/2E3NM42L/Stout - 2011 - Stone toolmaking and the evolution of human culture and cognition.pdf
+      \endverb
+    \endentry
+    \entry{stout2009making}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=451a48f58feddf97ca3c189b3ada4faa}{%
+           family={Stout},
+           familyi={S\bibinitperiod},
+           given={Dietrich},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b7a5726f328e8d037faf93b4ee6bb1f}{%
+           family={Chaminade},
+           familyi={C\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2082624a73baf87731df3a6d3796e573}
+      \strng{fullhash}{2082624a73baf87731df3a6d3796e573}
+      \strng{fullhashraw}{2082624a73baf87731df3a6d3796e573}
+      \strng{bibnamehash}{2082624a73baf87731df3a6d3796e573}
+      \strng{authorbibnamehash}{2082624a73baf87731df3a6d3796e573}
+      \strng{authornamehash}{2082624a73baf87731df3a6d3796e573}
+      \strng{authorfullhash}{2082624a73baf87731df3a6d3796e573}
+      \strng{authorfullhashraw}{2082624a73baf87731df3a6d3796e573}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Stone tool-making is an ancient and prototypically human skill characterized by multiple levels of intentional organization. In a formal sense, it displays surprising similarities to the multi-level organization of human language. Recent functional brain imaging studies of stone tool-making similarly demonstrate overlap with neural circuits involved in language processing. These observations are consistent with the hypothesis that language and tool-making share key requirements for the construction of hierarchically structured action sequences and evolved together in a mutually reinforcing way.}
+      \field{issn}{0959-7743, 1474-0540}
+      \field{journaltitle}{Cambridge Archaeological Journal}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{Making {{Tools}} and {{Making Sense}}}
+      \field{title}{Making {{Tools}} and {{Making Sense}}: {{Complex}}, {{Intentional Behaviour}} in {{Human Evolution}}}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{85\bibrangedash 96}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1017/S0959774309000055
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/V3MBUQC8/Stout and Chaminade - 2009 - Making Tools and Making Sense Complex, Intentional Behaviour in Human Evolution.pdf
+      \endverb
+    \endentry
+    \entry{udden2012implicit}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e70643a42682174c8ebe5324c0ee5526}{%
+           family={Uddén},
+           familyi={U\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6482478ff42a4447220ade3f594863}{%
+           family={Ingvar},
+           familyi={I\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a86ff709ffb4df129ee1fac8c7c91dba}{%
+           family={Hagoort},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc3d3c61230a4a75788332209102c6c1}{%
+           family={Petersson},
+           familyi={P\bibinitperiod},
+           given={Karl\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a299872e6cbda311b1302bb24957379}
+      \strng{fullhash}{ceba22e0e3bc302921b6300d24288bc2}
+      \strng{fullhashraw}{ceba22e0e3bc302921b6300d24288bc2}
+      \strng{bibnamehash}{0a299872e6cbda311b1302bb24957379}
+      \strng{authorbibnamehash}{0a299872e6cbda311b1302bb24957379}
+      \strng{authornamehash}{0a299872e6cbda311b1302bb24957379}
+      \strng{authorfullhash}{ceba22e0e3bc302921b6300d24288bc2}
+      \strng{authorfullhashraw}{ceba22e0e3bc302921b6300d24288bc2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A recent hypothesis in empirical brain research on language is that the fundamental difference between animal and human communication systems is captured by the distinction between finitestate and more complex phrase-structure grammars, such as context-free and context-sensitive grammars. However, the relevance of this distinction for the study of language as a neurobiological system has been questioned and it has been suggested that a more relevant and partly analogous distinction is that between non-adjacent and adjacent dependencies. Online memory resources are central to the processing of non-adjacent dependencies as information has to be maintained across intervening material. One proposal is that an external memory device in the form of a limited push-down stack is used to process non-adjacent dependencies. We tested this hypothesis in an artificial grammar learning paradigm where subjects acquired non-adjacent dependencies implicitly. Generally, we found no qualitative differences between the acquisition of non-adjacent dependencies and adjacent dependencies. This suggests that although the acquisition of non-adjacent dependencies requires more exposure to the acquisition material, it utilizes the same mechanisms used for acquiring adjacent dependencies. We challenge the push-down stack model further by testing its processing predictions for nested and crossed multiple non-adjacent dependencies. The push-down stack model is partly supported by the results, and we suggest that stack-like properties are some among many natural properties characterizing the underlying neurophysiological mechanisms that implement the online memory resources used in language and structured sequence processing.}
+      \field{issn}{0364-0213, 1551-6709}
+      \field{journaltitle}{Cognitive Science}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{6}
+      \field{shorttitle}{Implicit {{Acquisition}} of {{Grammars With Crossed}} and {{ Nested Non}}-{{Adjacent Dependencies}}}
+      \field{title}{Implicit {{Acquisition}} of {{Grammars With Crossed}} and {{Nested Non}}-{{Adjacent Dependencies}}: {{Investigating}} the {{Push}}-{{Down Stack Model}}}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{36}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{1078\bibrangedash 1101}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1111/j.1551-6709.2012.01235.x
+      \endverb
+      \verb{file}
+      \verb /Users/jayser6/Zotero/storage/XKMDMQ49/Uddén et al. - 2012 - Implicit Acquisition of Grammars With Crossed and Nested Non‐Adjacent Dependencies Investigating th.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
